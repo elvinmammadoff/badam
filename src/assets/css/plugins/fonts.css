@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'BigNoodleTitling-Oblique';
+  src: url('../../fonts/BigNoodleTitling-Oblique/BigNoodleTitling-Oblique.eot');
+  src: url('../../fonts/BigNoodleTitling-Oblique/BigNoodleTitling-Oblique.eot?#iefix') format('embedded-opentype'),
+      url('../../fonts/BigNoodleTitling-Oblique/BigNoodleTitling-Oblique.woff2') format('woff2'),
+      url('../../fonts/BigNoodleTitling-Oblique/BigNoodleTitling-Oblique.woff') format('woff'),
+      url('../../fonts/BigNoodleTitling-Oblique/BigNoodleTitling-Oblique.ttf') format('truetype'),
+      url('../../fonts/BigNoodleTitling-Oblique/BigNoodleTitling-Oblique.svg#BigNoodleTitling-Oblique') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'BigNoodleTitling';
+  src: url('../../fonts/BigNoodleTitling/BigNoodleTitling.eot');
+  src: url('../../fonts/BigNoodleTitling/BigNoodleTitling.eot?#iefix') format('embedded-opentype'),
+      url('../../fonts/BigNoodleTitling/BigNoodleTitling.woff2') format('woff2'),
+      url('../../fonts/BigNoodleTitling/BigNoodleTitling.woff') format('woff'),
+      url('../../fonts/BigNoodleTitling/BigNoodleTitling.ttf') format('truetype'),
+      url('../../fonts/BigNoodleTitling/BigNoodleTitling.svg#BigNoodleTitling') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
