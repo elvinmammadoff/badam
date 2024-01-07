@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en-US" dir="ltr" >
+<html lang="zxx" dir="ltr" >
 
 <!-- BEGIN head -->
 <head>
@@ -56,9 +56,9 @@
 
                     <div class="carousel-caption">
                         <h1 class="fadeUp">
-                            <div class="border-top"></div>
+                            <span class="border-top"></span>
                             Create & Unique <span class="text-blue">Design</span>
-                            <div class="border-bottom"></div>
+                            <span class="border-bottom"></span>
                         </h1>
                         <p class="fadeUp fade-slow">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -70,9 +70,10 @@
                     <div class="overlay"></div>
                     <div class="carousel-caption">
                         <h1 class="fadeUp">
-                            <div class="border-top"></div>
+                            <span class="border-top"></span>
                             Create & Unique <span class="text-blue">Design</span>
-                            <div class="border-bottom"></div></h1>
+                            <span class="border-bottom"></span>
+                        </h1>
                         <p class="fadeUp fade-slow">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
@@ -83,9 +84,10 @@
                     <div class="overlay"></div>
                     <div class="carousel-caption">
                         <h1 class="fadeUp">
-                            <div class="border-top"></div>
+                            <span class="border-top"></span>
                             Create & Unique <span class="text-blue">Design</span>
-                            <div class="border-bottom"></div></h1>
+                            <span class="border-bottom"></span>
+                        </h1>
                         <p class="fadeUp fade-slow">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </p>
@@ -112,7 +114,7 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="#"><img src="./src/assets/img/logo.png"></a>
+                            <a class="navbar-brand" href="#"><img src="./src/assets/img/logo.png" alt="logo"></a>
                         </div>
 
                         <!-- Collect the nav links, forms, and other content for toggling -->
@@ -375,7 +377,7 @@
         <div class="row members">
             <div class="col-xs-12 col-sm-4 item">
                 <div class="block">
-                    <img src="./src/assets/img/team/team-1.jpg">
+                    <img src="./src/assets/img/team/team-1.jpg" alt="team-1">
                     <div class="content">
                         <div class="name fade-in">
                             <a href="javascript:;">Leyla Azimi</a>
@@ -393,7 +395,7 @@
 
             <div class="col-xs-12 col-sm-4 item">
                 <div class="block">
-                    <img src="./src/assets/img/team/team-2.jpg">
+                    <img src="./src/assets/img/team/team-2.jpg" alt="team-2">
                     <div class="content">
                         <div class="name fade-in">
                             <a href="javascript:;">Cavad Alizada</a>
@@ -411,7 +413,7 @@
 
             <div class="col-xs-12 col-sm-4 item">
                 <div class="block">
-                    <img src="./src/assets/img/team/team-3.jpg">
+                    <img src="./src/assets/img/team/team-3.jpg" alt="team-3">
                     <div class="content">
                         <div class="name fade-in">
                             <a href="javascript:;">Mila Ashley</a>
@@ -429,7 +431,7 @@
 
             <div class="col-xs-12 col-sm-4 item">
                 <div class="block">
-                    <img src="./src/assets/img/team/team-2.jpg">
+                    <img src="./src/assets/img/team/team-2.jpg" alt="team-2">
                     <div class="content">
                         <div class="name fade-in">
                             <a href="javascript:;">Cavad Alizada</a>
@@ -454,31 +456,31 @@
             <div class="row text-center items">
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="./src/assets/img/partners/partners-1.png">
+                        <img src="./src/assets/img/partners/partners-1.png" alt="partners-1">
                     </div>
                 </div>
 
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="./src/assets/img/partners/partners-2.png">
+                        <img src="./src/assets/img/partners/partners-2.png" alt="partners-2">
                     </div>
                 </div>
 
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="./src/assets/img/partners/partners-3.png">
+                        <img src="./src/assets/img/partners/partners-3.png" alt="partners-3">
                     </div>
                 </div>
 
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="./src/assets/img/partners/partners-4.png">
+                        <img src="./src/assets/img/partners/partners-4.png" alt="partners-4">
                     </div>
                 </div>
 
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="./src/assets/img/partners/partners-2.png">
+                        <img src="./src/assets/img/partners/partners-2.png" alt="partners-2">
                     </div>
                 </div>
             </div>
@@ -626,15 +628,15 @@
 <!-- END body-wrapper -->
 
 <!-- JavaScript -->
-<script type="text/javascript" src="./src/assets/js/plugins/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="./src/assets/js/plugins/bootstrap.min.js"></script>
-<script type="text/javascript" src="./src/assets/js/plugins/jquery.mousewheel.min.js"></script>
-<script type="text/javascript" src="./src/assets/js/plugins/jquery.easing.min.js"></script>
-<script type="text/javascript" src="./src/assets/js/plugins/scrolling-nav.js"></script>
-<script type="text/javascript" src="./src/assets/js/plugins/aos.js"></script>
-<script type="text/javascript" src="./src/assets/js/plugins/slick.min.js"></script>
-<script type="text/javascript" src="./src/assets/js/plugins/jquery.touchSwipe.min.js"></script>
+<script src="./src/assets/js/plugins/jquery-3.2.1.min.js"></script>
+<script src="./src/assets/js/plugins/bootstrap.min.js"></script>
+<script src="./src/assets/js/plugins/jquery.mousewheel.min.js"></script>
+<script src="./src/assets/js/plugins/jquery.easing.min.js"></script>
+<script src="./src/assets/js/plugins/scrolling-nav.js"></script>
+<script src="./src/assets/js/plugins/aos.js"></script>
+<script src="./src/assets/js/plugins/slick.min.js"></script>
+<script src="./src/assets/js/plugins/jquery.touchSwipe.min.js"></script>
 <script src="https://api-maps.yandex.ru/2.1/?apikey=pdct.1.1.20181030T175834Z.133bc6bb41576943.2897484581a2a12fea17740a34279c270c29ac48&lang=en_US"></script>
-<script type="text/javascript" src="./src/assets/js/main.js"></script>
+<script src="./src/assets/js/main.js"></script>
 </body>
 </html>
