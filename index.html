@@ -163,7 +163,7 @@
         <div class="row d-flex flex-xs-column">
             <div class="border"></div>
             <div class="col-xs-12 col-sm-5 img text-center" data-aos="flip-left">
-                <img src="./src/assets/img/about/about.jpg">
+                <img src="./src/assets/img/about/about.jpg" alt="about">
             </div>
             <div class="col-sm-7 d-flex align-items-center" data-aos="fade-left">
                 <div class="content">
