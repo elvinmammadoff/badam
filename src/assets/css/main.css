@@ -547,10 +547,8 @@ a:focus
 }
 #team .members img {
     max-width: 100%;    
-    padding: 15px 22px 0;
 }
 #team .members .block {
-    background-color: #e8e8e8;
     position: relative;
     overflow: hidden;
     cursor: pointer;
@@ -653,10 +651,10 @@ a:focus
     bottom: -60px;
 }
 #team .slick-dots li {
-    margin: 0 5px;
+    margin: 0 2px;
 }
 #team .slick-dots li button:before {
-    font-size: 18px;
+    font-size: 50px;
     color: #379889;
 }
 /*---   Partners    ---*/

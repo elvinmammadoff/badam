@@ -6,19 +6,19 @@
 <head>
 
     <!--Meta Tags-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Badam Agency</title>
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="./src/assets/css/plugins/bootstrap.min.css" type="text/css" media="all" />
-    <link rel="stylesheet" href="./src/assets/css/plugins/bootstrap-theme.min.css" type="text/css" media="all" />
+    <link rel="stylesheet" href="./src/assets/css/plugins/bootstrap.min.css" type="text/css" media="all">
+    <link rel="stylesheet" href="./src/assets/css/plugins/bootstrap-theme.min.css" type="text/css" media="all">
     <link href="./src/assets/css/plugins/fonts.css" rel="stylesheet">
     <link href="https://onface.github.io/font-awesome/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="./src/assets/css/plugins/slick.css" rel="stylesheet">
     <link href="./src/assets/css/plugins/slick-theme.css" rel="stylesheet">
     <link href="./src/assets/css/plugins/aos.css" rel="stylesheet">
-    <link type="text/css" rel="stylesheet" href="./src/assets/css/plugins/scrolling-nav.css" />
+    <link type="text/css" rel="stylesheet" href="./src/assets/css/plugins/scrolling-nav.css">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link href="./src/assets/css/main.css" rel="stylesheet">
     <link href="./src/assets/css/responsive.css" rel="stylesheet">
@@ -49,7 +49,7 @@
             <div class="carousel-inner" role="listbox">
 
                 <!--    Carousel Items   -->
-                <div class="item active" style="background-image: url('https://placehold.co/2000x1333')">
+                <div class="item active" style="background-image: url('./src/assets/img/carousel/carousel-1.png')">
 
                     <!-- Carousel background cover -->
                     <div class="overlay"></div>
@@ -66,7 +66,7 @@
                     </div>
                 </div>
 
-                <div class="item" style="background-image: url('https://placehold.co/2000x1333')">
+                <div class="item" style="background-image: url('./src/assets/img/carousel/carousel-1.png')">
                     <div class="overlay"></div>
                     <div class="carousel-caption">
                         <h1 class="fadeUp">
@@ -79,7 +79,7 @@
                     </div>
                 </div>
 
-                <div class="item" style="background-image: url('https://placehold.co/2000x1333')">
+                <div class="item" style="background-image: url('./src/assets/img/carousel/carousel-1.png')">
                     <div class="overlay"></div>
                     <div class="carousel-caption">
                         <h1 class="fadeUp">
@@ -161,7 +161,7 @@
         <div class="row d-flex flex-xs-column">
             <div class="border"></div>
             <div class="col-xs-12 col-sm-5 img text-center" data-aos="flip-left">
-                <img src="https://placehold.co/581x613">
+                <img src="./src/assets/img/about/about.jpg">
             </div>
             <div class="col-sm-7 d-flex align-items-center" data-aos="fade-left">
                 <div class="content">
@@ -281,7 +281,7 @@
                         <div class="filtr-item image filter website photography">
                             <a href="javascript:;" class="block">
                                 <div class="content">
-                                    <img src="https://placehold.co/600x450"  alt="sample">
+                                    <img src="./src/assets/img/portfolio/portfolio-1.jpg"  alt="sample">
                                     <div class="info">
                                         <div class="name">Demo Project Name</div>
                                         <div class="short">Graphic Design category</div>
@@ -292,7 +292,7 @@
                         <div class="filtr-item image filter graphic-design photography development">
                            <a href="javascript:;" class="block">
                                 <div class="content">
-                                    <img src="https://placehold.co/856x573"  alt="sample">
+                                    <img src="./src/assets/img/portfolio/portfolio-2.jpg"  alt="sample">
                                     <div class="info">
                                         <div class="name">Demo Project Name</div>
                                         <div class="short">Graphic Design category</div>
@@ -303,7 +303,7 @@
                         <div class="filtr-item image filter   graphic-design photography">
                            <a href="javascript:;" class="block">
                                 <div class="content">
-                                    <img src="https://placehold.co/856x573"  alt="sample">
+                                    <img src="./src/assets/img/portfolio/portfolio-3.jpg"  alt="sample">
                                     <div class="info">
                                         <div class="name">Demo Project Name</div>
                                         <div class="short">Graphic Design category</div>
@@ -319,7 +319,7 @@
                         <div class="filtr-item image filter graphic-design Development">
                             <a href="javascript:;" class="block">
                                 <div class="content">
-                                    <img src="https://placehold.co/856x573"  alt="sample">
+                                    <img src="./src/assets/img/portfolio/portfolio-4.jpg"  alt="sample">
                                     <div class="info">
                                         <div class="name">Demo Project Name</div>
                                         <div class="short">Graphic Design category</div>
@@ -330,7 +330,7 @@
                         <div class="filtr-item image filter graphic-design">
                             <a href="javascript:;" class="block">
                                 <div class="content">
-                                    <img src="https://placehold.co/856x573"  alt="sample">
+                                    <img src="./src/assets/img/portfolio/portfolio-5.jpg"  alt="sample">
                                     <div class="info">
                                         <div class="name">Demo Project Name</div>
                                         <div class="short">Graphic Design category</div>
@@ -341,7 +341,7 @@
                         <div class="filtr-item image filter website">
                             <a href="javascript:;" class="block">
                                 <div class="content">
-                                    <img src="https://placehold.co/600x450"  alt="sample">
+                                    <img src="./src/assets/img/portfolio/portfolio-6.jpg"  alt="sample">
                                     <div class="info">
                                         <div class="name">Demo Project Name</div>
                                         <div class="short">Graphic Design category</div>
@@ -375,7 +375,7 @@
         <div class="row members">
             <div class="col-xs-12 col-sm-4 item">
                 <div class="block">
-                    <img src="https://placehold.co/481x768">
+                    <img src="./src/assets/img/team/team-1.jpg">
                     <div class="content">
                         <div class="name fade-in">
                             <a href="javascript:;">Leyla Azimi</a>
@@ -393,7 +393,7 @@
 
             <div class="col-xs-12 col-sm-4 item">
                 <div class="block">
-                    <img src="https://placehold.co/481x768">
+                    <img src="./src/assets/img/team/team-2.jpg">
                     <div class="content">
                         <div class="name fade-in">
                             <a href="javascript:;">Cavad Alizada</a>
@@ -411,7 +411,7 @@
 
             <div class="col-xs-12 col-sm-4 item">
                 <div class="block">
-                    <img src="https://placehold.co/481x768">
+                    <img src="./src/assets/img/team/team-3.jpg">
                     <div class="content">
                         <div class="name fade-in">
                             <a href="javascript:;">Mila Ashley</a>
@@ -429,7 +429,7 @@
 
             <div class="col-xs-12 col-sm-4 item">
                 <div class="block">
-                    <img src="https://placehold.co/481x768">
+                    <img src="./src/assets/img/team/team-2.jpg">
                     <div class="content">
                         <div class="name fade-in">
                             <a href="javascript:;">Cavad Alizada</a>
@@ -454,31 +454,31 @@
             <div class="row text-center items">
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="https://placehold.co/166x100">
+                        <img src="./src/assets/img/partners/partners-1.png">
                     </div>
                 </div>
 
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="https://placehold.co/166x100">
+                        <img src="./src/assets/img/partners/partners-2.png">
                     </div>
                 </div>
 
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="https://placehold.co/166x100">
+                        <img src="./src/assets/img/partners/partners-3.png">
                     </div>
                 </div>
 
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="https://placehold.co/166x100">
+                        <img src="./src/assets/img/partners/partners-4.png">
                     </div>
                 </div>
 
                 <div class="col-sm-3">
                     <div class="item">
-                        <img src="https://placehold.co/166x100">
+                        <img src="./src/assets/img/partners/partners-2.png">
                     </div>
                 </div>
             </div>
