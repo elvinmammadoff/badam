@@ -1,0 +1,162 @@
+/* Responsive */
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  .navbar-nav>li>a {
+      padding: 15px 8px;
+      font-size: 13px;
+  }
+  .search-block {
+      margin-left: 25px;
+  }
+  .section-title {
+      font-size: 45px;
+  }
+  .section-title:before,
+  .section-title:after
+  {
+      width: 50px;
+  }
+  #about_us .short {
+      font-size: 15px;
+      line-height: 1.3;
+  }
+  #contacts .contact-links {
+      font-size: 23px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .flex-xs-column {
+      flex-direction: column;
+  }
+  .mb-xs-5 {
+      margin-bottom: 5px;
+  }
+  .btn-border{
+      font-size: 20px;
+      padding: 2px 35px;
+  }
+  .navbar-container.affix .navbar {
+      min-height: 49px;
+      padding: 2px 0 0px;
+      margin-bottom: 0;
+  }
+  .search-block #search {
+      margin: 0px 0 17px;
+  }
+  #navbar_search {
+      top: 20px;
+  }
+  #navbar_search input {
+      font-size: 15px;
+  }
+  .navbar-toggle .icon-bar {
+      background-color: white;
+  }
+  .navbar-collapse {
+      background-color: rgba(0, 0, 0, 0.8);
+  }
+  .navbar-toggle {
+      margin-right: 0;
+      padding-right: 0;
+      padding-left: 0;
+  }
+  .carousel-inner:before,
+  .carousel-inner:after
+  {
+      border-top-width: 50px;
+  }
+  .carousel-inner .item {
+      height: 100vh; 
+   }
+  .carousel-caption h1 {
+      font-size: 30px;
+      padding: 10px;
+      margin-top: 0;
+  }
+  .carousel-caption p {
+      font-size: 12px;
+  }
+
+  .section-title {
+      font-size: 32px;
+  }
+  #about_us .short {
+      font-size: 12px;
+  }
+  #about_us .border:after {
+      width: calc(100% - 10px);
+      left: 5px;
+      border-width: 1px;
+  }
+  .section-title:before,
+  .section-title:after
+  {
+      width: 25px;
+  }
+  .section {
+      padding-top: 30px;
+  }
+  .section .title-block {
+      margin-bottom: 30px;
+  }
+  .section-short {
+      font-size: 13px;
+  }
+  .services-item .icon i {
+      font-size: 50px;
+  }
+  .services-item .short {
+      font-size: 12px;
+  }
+  .services-item .item {
+      margin-bottom: 25px;
+  }
+  #portfolio_gallery .image {
+      margin-bottom: 15px;
+      padding: 0 8px;
+  }
+  #team .slick-dots {
+      bottom: -35px;
+  }
+  #partners {
+      margin-top: 45px;
+  }
+  #contact_form .form-control {
+      padding: 15px 10px;
+      font-size: 13px;
+  }
+  #contact_form .control-label {
+      font-size: 20px;
+      margin-bottom: 5px;
+  }
+  #contact_form textarea {
+      height: 100px;
+  }
+  #contact_form .btn {
+      margin-top: 0;
+  }
+  #contacts .icon {
+      font-size: 22px;
+      width: 40px;
+      height: 40px;
+      margin-bottom: 10px;
+  }
+  #contacts .contact-links {
+      font-size: 19px;
+  }
+  #contacts .item {
+      margin-bottom: 5px;
+  }
+  #footer {
+      padding-top: 30px;
+  }
+  #footer .triangle {
+      border-width: 0 67vw 145px 69vw;
+  }
+  #footer .social-links {
+      bottom: 10px;
+      width: 100%;
+  }
+
+}
