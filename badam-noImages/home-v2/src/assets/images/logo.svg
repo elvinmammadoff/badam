@@ -1,0 +1,36 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 773 234" width="773" height="234">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 83px;fill: #138f82;font-weight: 700;font-family: "RoadRadio-Bold", "RoadRadio" } 
+		.t1 { font-size: 83px;fill: #000000;font-weight: 700;font-family: "RoadRadio-Bold", "RoadRadio" } 
+	</style>
+	<text id="P" style="transform: matrix(1.745,.023,-0.023,1.745,673.142,106.481)" >
+		<tspan x="0" y="0" class="t0">P
+</tspan>
+	</text>
+	<text id="R" style="transform: matrix(2.034,0,0,2.034,117.864,200.559)" >
+		<tspan x="0" y="0" class="t1">R</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+	<text id="A" style="transform: matrix(2.034,0,0,2.034,225.864,190.559)" >
+		<tspan x="0" y="0" class="t1">A</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+	<text id="U" style="transform: matrix(1.739,-0.135,.135,1.739,581.445,136.425)" >
+		<tspan x="0" y="0" class="t0">U</tspan><tspan  y="0" class="t0">
+</tspan>
+	</text>
+	<text id="N" style="transform: matrix(2.034,0,0,2.034,350.864,180.559)" >
+		<tspan x="0" y="0" class="t1">N</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+	<text id="B" style="transform: matrix(2.034,0,0,2.034,8.864,210.559)" >
+		<tspan x="0" y="0" class="t1">B</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+	<text id="D" style="transform: matrix(2.034,0,0,2.034,463.864,171.559)" >
+		<tspan x="0" y="0" class="t1">D</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+</svg>
