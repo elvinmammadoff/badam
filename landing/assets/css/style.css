@@ -108,7 +108,7 @@ a:focus {
     margin-top: 40px;
 }
 .button:hover {
-    box-shadow: 4px 3px 24px rgba(246, 165, 37, 0.5);
+    box-shadow: 4px 3px 24px rgba(19, 143, 131, 0.5);
     color: #fff;
 }
 .button:focus {
